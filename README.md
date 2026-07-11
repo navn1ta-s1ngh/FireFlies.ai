@@ -2,14 +2,17 @@
 
 A meeting notes and transcription platform inspired by Fireflies.ai. It stores meeting recordings' transcripts, auto-generates summaries and topic breakdowns, tracks action items, and surfaces speaker-level insights — with a FastAPI backend and a Next.js frontend.
 
-## Table of Contents
+## Features
 
-- [Architecture Overview](#architecture-overview)
-- [Tech Stack](#tech-stack)
-- [Setup Instructions](#setup-instructions)
-- [Database Schema](#database-schema)
-- [API Overview](#api-overview)
-- [Project Structure](#project-structure)
+- AI-powered meeting dashboard
+- Interactive transcript viewer
+- Speaker-wise transcript
+- AI-generated summaries
+- Action item extraction
+- Topic segmentation
+- Search meetings
+- Meeting CRUD
+- REST APIs
 
 ## Architecture Overview
 
