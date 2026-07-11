@@ -70,7 +70,6 @@ The two apps communicate purely over HTTP: the frontend reads `NEXT_PUBLIC_API_U
 
 - Python 3.11+
 - Node.js 18+ and npm
-- (Optional) PostgreSQL if you don't want to use the default SQLite database
 
 ### 1. Clone the repo
 
